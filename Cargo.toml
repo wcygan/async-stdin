@@ -6,6 +6,8 @@ authors = ["Will Cygan <wcygan.io@gmail.com>"]
 description = "Asynchronously read from stdin"
 categories = ["asynchronous", "rust-patterns", "command-line-interface"]
 keywords = ["io", "stdin", "input", "async", "asynchronous"]
+repository = "https://github.com/wcygan/async-stdin"
+homepage = "https://github.com/wcygan/async-stdin"
 license = "MIT"
 exclude = ["/.github"]
 
